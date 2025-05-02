@@ -1,0 +1,28 @@
+.shop {
+    width: 100%;
+    background: #FFFFFF;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  
+  .shop-header h3 {
+    padding: 14px 16px;
+  }
+  
+  .shop-header img {
+    width: 100%;
+    object-fit: cover;
+  }
+  
+  .shop-body {
+    padding: 0 16px;
+  }
+  
+  .shop-footer {
+    padding: 14px 16px;
+  }
+  .shop-container {
+    display: flex;
+    flex-direction: row;
+     gap: 24px;
+  }
